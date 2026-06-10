@@ -1,0 +1,11 @@
+Week 2 - Debugging and Troubleshooting Python Applications
+
+In this project, I worked on debugging and troubleshooting a Python-based Student Record Management System as part of my Junior Python Developer Internship Week 2 task. The primary objective of this assignment was to develop practical debugging skills by identifying, reproducing, documenting, and resolving multiple software bugs in a structured and professional manner.
+
+The project initially contained several intentional bugs related to runtime errors, logic errors, file handling issues, exception handling problems, and input validation weaknesses. I carefully analyzed the application, reproduced each issue step by step, and documented all observations in a detailed Bug Report and Debugging Log.
+
+The debugging process involved testing different application functionalities including viewing student records, calculating average marks, searching student data, saving records to files, and loading saved data. After identifying root causes, I implemented appropriate fixes and validated each correction through repeated testing.
+
+In addition to fixing bugs, I also improved the overall quality of the application through refactoring and optimization. These improvements included adding exception handling, input validation, duplicate record prevention, improved output formatting, and cleaner code structure for better readability and maintainability.
+
+This project helped me strengthen my understanding of Python debugging techniques, file handling, exception handling, logical problem-solving, and GitHub-based version control workflows. It also improved my ability to create professional software documentation and maintain organized project structures suitable for real-world development environments.
