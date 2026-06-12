@@ -1,0 +1,10 @@
+Timeit Benchmark Results
+
+Original Bubble Sort Time:
+0.9361850000004779 seconds
+
+Optimized Built-in Sort Time:
+0.00101619999986724 seconds
+
+Observation:
+Python built-in sorting performed significantly faster than the manual bubble sort implementation.

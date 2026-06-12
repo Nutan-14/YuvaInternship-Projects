@@ -1,0 +1,12 @@
+Performance Analysis
+
+1. time.sleep() caused repeated execution delays.
+2. Bubble sort algorithm consumed high processing time.
+3. Linear search was inefficient for large datasets.
+4. Unnecessary nested loops increased execution overhead.
+
+Optimization Plan:
+- Remove unnecessary delays
+- Replace bubble sort with built-in sorting
+- Improve search efficiency
+- Simplify loops and calculations

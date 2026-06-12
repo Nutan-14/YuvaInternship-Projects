@@ -1,0 +1,8 @@
+No external Python packages required.
+
+Built-in Python modules used:
+
+* random
+* time
+* cProfile
+* timeit

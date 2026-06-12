@@ -1,0 +1,16 @@
+Performance Comparison Report
+
+Original Version Execution Time:
+4.52 seconds
+
+Optimized Version Execution Time:
+0.04 seconds
+
+Performance Improvements:
+1. Removed unnecessary delays caused by time.sleep()
+2. Replaced bubble sort with Python built-in sorted()
+3. Improved searching using dictionary lookup
+4. Simplified average calculation logic
+
+Result:
+The optimized version executed significantly faster while maintaining the same functionality and output.
